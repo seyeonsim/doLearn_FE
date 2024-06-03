@@ -85,13 +85,14 @@
 | 🔊 <br /> 캐릭터 AI와 대화, <br /> 답변 Text-to-Speech | <video src="https://github.com/seyeonsim/doLearn_FE/assets/148730784/8e5fd450-36ed-44f4-b2e6-ec2ed55a320b" /> |
 | 대화의 감정에 따라 바뀌는 캐릭터 | ![감정](https://github.com/seyeonsim/doLearn_FE/assets/148730784/6887e5b8-f811-4022-bb5a-500a2626a88b) |
 | 미션(학습하기 - 학습 완료) 표현 사용 여부 판단 | ![대화 미션](https://github.com/seyeonsim/doLearn_FE/assets/148730784/cbf9ffe5-66e6-4aaa-b389-a50bc5a44b6e) |
-| 대화 종료 버튼 클릭 : 대화 종료 및 문법 교정 | ![대화종료, 교정](https://github.com/seyeonsim/doLearn_FE/assets/148730784/34ebca06-b5eb-4dc1-a8a9-1df5c55a2afc) <br /> <img src="https://github.com/seyeonsim/doLearn_FE/assets/148730784/d755ba9e-5c37-4fd1-8f41-a67f50341c9e" width="1200" />|
+| 대화 종료 버튼 클릭 <br /> : 대화 종료(저장) 및 문법 교정 | ![대화종료, 교정](https://github.com/seyeonsim/doLearn_FE/assets/148730784/34ebca06-b5eb-4dc1-a8a9-1df5c55a2afc) <br /> <img src="https://github.com/seyeonsim/doLearn_FE/assets/148730784/d755ba9e-5c37-4fd1-8f41-a67f50341c9e" width="1200" />|
 
 <br /><br />
 
 ### 📖 학습하기
 | 기능 | |
 | --- | --- |
-| 수준별 표현 | |
-| AI 활용 예문 생성 | |
-| 학습 완료, 해당 표현은 대화하기 미션으로 할당됨 |
+| 수준별 표현 | <img width="1209" alt="수준별" src="https://github.com/seyeonsim/doLearn_FE/assets/148730784/6140b36f-e66e-4f4d-ae95-0e792201b2a9"> |
+| AI 활용 예문 생성 | ![예문](https://github.com/seyeonsim/doLearn_FE/assets/148730784/6a2f84f7-5739-42d6-808c-ac7b3bf07b98) |
+| 학습 완료, 해당 표현은 대화하기 미션으로 할당됨 | ![학습 완료](https://github.com/seyeonsim/doLearn_FE/assets/148730784/eda0dd34-9377-4bc0-a0d7-b610e1af6d22) |
+| 퀴즈 | ![퀴즈](https://github.com/seyeonsim/doLearn_FE/assets/148730784/8b6b2e86-f6b6-42ec-89ed-2ebdca6f7b22) |
