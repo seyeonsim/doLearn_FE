@@ -98,13 +98,13 @@ export default function Mypage() {
         <div className='form-elements'>
           <div className='form-title signup py-5'>
             <Link to='/'>
-              <h1 className='logo'>DoRun-DoRun</h1>
+              <h1 className='logo'>DoLearn-DoLearn</h1>
             </Link>
           </div>
           {userCheck && (
             <div className='form-box'>
               <h2 className='font-bold mb-2'>프로필 수정</h2>
-              <p className='text-sm text-gray-400'>DoRun-DoRun e-mail과 비밀번호를 수정 하실 수 있습니다.</p>
+              <p className='text-sm text-gray-400'>DoLearn-DoLearn e-mail과 비밀번호를 수정 하실 수 있습니다.</p>
               <form className='auth-form' onSubmit={handleSubmit(handleEmailChange)}>
                 <label className='auth-label' htmlFor='userId'>
                   아이디

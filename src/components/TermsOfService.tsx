@@ -52,7 +52,7 @@ function TermsOfService() {
     <div className="form-container">
       <div className="form-area2">
         <Link to={'/'}>
-        <h1 className="text-3xl font-bold mt-4 mb-7 text-center">DoRun-DoRun</h1>
+        <h1 className="text-3xl font-bold mt-4 mb-7 text-center">DoLearn-DoLearn</h1>
         </Link> 
         <div className="mb-6">
           <h2 className="font-semibold mb-2 flex items-center">
@@ -66,7 +66,7 @@ function TermsOfService() {
           </h2>
           <div className="overflow-y-auto max-h-24 border border-gray-200 p-1">
             <p className="mb-2">제1조 (목적)</p>
-            <p className='text-sm'>이 약관은 DoRun-DoRun (이하 "회사"라 함)이 제공하는 서비스 "DoRun-DoRun" (이하 "서비스"라 함)의 이용조건 및 절차에 관한 사항을 규정함을 목적으로 합니다.</p>
+            <p className='text-sm'>이 약관은 DoLearn-DoLearn (이하 "회사"라 함)이 제공하는 서비스 "DoLearn-DoLearn" (이하 "서비스"라 함)의 이용조건 및 절차에 관한 사항을 규정함을 목적으로 합니다.</p>
             <p className="mb-2">제2조 (약관의 효력과 변경)</p>
             <p className='text-sm'>본 약관은 서비스를 이용하고자 하는 모든 회원에 대하여 효력이 있습니다.</p>
             <p className='text-sm'>회사는 필요 시 본 약관을 변경할 수 있으며, 변경된 약관은 회사가 정한 방법으로 공지함으로써 효력을 발생합니다.</p>

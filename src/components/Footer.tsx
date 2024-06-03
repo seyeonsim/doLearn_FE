@@ -11,7 +11,7 @@ export default function Footer() {
             <span className='about-icon'>
               <VscInfo />
             </span>
-            <span className='about-text'>© Dorun-Dorun</span>
+            <span className='about-text'>© DoLearn-DoLearn</span>
           </div>
         {/* </Link> */}
       </div>

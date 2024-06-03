@@ -125,7 +125,7 @@ export default function SignUp() {
         <div className='form-elements'>
           <div className='form-title signup'>
             <Link to='/'>
-              <h1 className='logo'>DoRun-DoRun</h1>
+              <h1 className='logo'>DoLearn-DoLearn</h1>
             </Link>
           </div>
           <div className='form-box'>

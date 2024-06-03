@@ -22,7 +22,7 @@ export default function SidebarNav() {
       <div className='container'>
         <Link to='/'>
           <h1 className='logo'>
-            <span className='nav-logo'>DoRunDoRun</span>
+            <span className='nav-logo'>DoLearnDoLearn</span>
             <span className='nav-logo-tablet'>DD</span>
           </h1>
         </Link>

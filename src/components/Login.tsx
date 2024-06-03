@@ -67,7 +67,7 @@ export default function Login() {
         <div className='form-elements'>
           <div className='form-title'>
             <Link to='/'>
-              <h1 className='logo'>DoRun-DoRun</h1>
+              <h1 className='logo'>DoLearn-DoLearnn</h1>
             </Link>
           </div>
           <div className='form-box'>
