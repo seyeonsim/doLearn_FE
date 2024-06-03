@@ -1,9 +1,11 @@
 # <img src="https://github.com/seyeonsim/doLearn_FE/blob/f3a27f32e6953326e73b27fbd2b2002ceccbb157/public/favicon.png" width="50"> 두런두런
-캐릭터와 재미있게 대화하며 영어 공부를 할 수 있는 웹 플랫폼
+캐릭터와 재미있게 대화하며 영어 공부를 할 수 있는 웹 서비스
 
 <br />
 
 > 📅 개발 기간 : 2024.02.29 ~ 2024.04.02
+> 
+> 🔗 배포 주소 : https://43.203.227.36.sslip.io/
 
 <br /><br /><br />
 
@@ -79,9 +81,11 @@
 ### 💬 대화하기
 | 기능 | |
 | --- | --- |
-| 캐릭터 AI와 대화 <br /> &nbsp;&nbsp;&nbsp;- Speech-to-Text를 이용한 대화 <br /> &nbsp;&nbsp;&nbsp;- 대답을 캐릭터의 목소리로 듣기(Text-to-Speech) <br /> &nbsp;&nbsp;&nbsp;- 대화 속 감정에 따라 바뀌는 캐릭터의 표정 | |
-| 미션(학습하기 - 학습 완료) 표현 사용 여부 판단 | |
-| 대화 종료 후 문법 교정 | |
+| 🔊 <br /> Speech-to-Text | <video src="https://github.com/seyeonsim/doLearn_FE/assets/148730784/b0812ec3-f12f-4300-8a77-b12a24e2abec" /> |
+| 🔊 <br /> 캐릭터 AI와 대화, <br /> 답변 Text-to-Speech | <video src="https://github.com/seyeonsim/doLearn_FE/assets/148730784/8e5fd450-36ed-44f4-b2e6-ec2ed55a320b" /> |
+| 대화의 감정에 따라 바뀌는 캐릭터 | ![감정](https://github.com/seyeonsim/doLearn_FE/assets/148730784/6887e5b8-f811-4022-bb5a-500a2626a88b) |
+| 미션(학습하기 - 학습 완료) 표현 사용 여부 판단 | ![대화 미션](https://github.com/seyeonsim/doLearn_FE/assets/148730784/cbf9ffe5-66e6-4aaa-b389-a50bc5a44b6e) |
+| 대화 종료 버튼 클릭 : 대화 종료 및 문법 교정 | ![대화종료, 교정](https://github.com/seyeonsim/doLearn_FE/assets/148730784/34ebca06-b5eb-4dc1-a8a9-1df5c55a2afc) <br /> <img src="https://github.com/seyeonsim/doLearn_FE/assets/148730784/d755ba9e-5c37-4fd1-8f41-a67f50341c9e" width="1200" />|
 
 <br /><br />
 
